@@ -1,6 +1,6 @@
 # Lite
 
-Packet interception tool for Destiny 2. Single exe, no install, just run as admin and go.
+Packet interception tool. Single exe, no install, just run as admin and go.
 
 ## What it does
 
