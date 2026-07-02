@@ -4,7 +4,7 @@ Packet interception tool. Single exe, no install, just run as admin and go.
 
 ## What it does
 
-Intercepts game traffic at the port level. Includes an autobuffer/auto re-sync. As well as a reconnect feature that kills active TCP connections and a swap feature for loadout switching.
+Intercepts game traffic at the port level. Includes an autobuffer/auto re-sync. As well as a reconnect feature that kills active TCP connections and a swap feature for your duality.
 
 **Ports:**
 - `3074` UDP — primary game traffic
