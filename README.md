@@ -7,10 +7,10 @@ Packet interception tool. Single exe, no install, just run as admin and go.
 Intercepts game traffic at the port level. Includes an autobuffer/auto re-sync. As well as a reconnect feature that kills active TCP connections and a swap feature for your duality.
 
 **Ports:**
-- `3074` UDP — primary game traffic
-- `30K` TCP — matchmaking
-- `27K` UDP — voice/auxiliary
-- `7500` TCP — telemetry
+- `3074` 
+- `30K` 
+- `27K` 
+- `7500` 
 
 **Per-port settings:**
 - DL / UL blocking with separate hotkeys
